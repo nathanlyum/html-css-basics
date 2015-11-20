@@ -1,0 +1,1 @@
+This is a basic web site to learn ideas of good design.
