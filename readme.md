@@ -26,3 +26,9 @@ Now let's manipulate the content of our HTML and the styles of our CSS file.
 1. Change the content in `index.html` such as the `title`, `h1`, and the `p` tags.
 1. Add your own CSS markup by creating a brand new file in the `css` folder called `styles.css`.
 1. Try maintain good color schema and styles when reference to the HTML's respective elements, ids, and classes.
+
+### Let's Review! Some questions to ask...
+
+1. What makes a good HTML skeleton?
+1. How does CSS play a role in its relationship with HTML?
+1. What's the importance of having good design?
